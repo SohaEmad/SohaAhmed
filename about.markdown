@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello World 
+![soha](/images/soha.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am computer engineer from Egypt bilingual arabic and english. taught computer engineering for more than 6 years in Egypt and UK. work in software development. always learning my current accurate status on any given day is in progress. 
+love object oriented but facinated by functionl programming.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+programming language I have delevloped with 
+
+Java , C++ , swift, 
+
+platforms 
+spring , android , IOS , NodeJS , 
 
 
-[jekyll-organization]: https://github.com/jekyll
+in progress 
+Kotlin , 
+
+staff on my list 
+
+devOps 
