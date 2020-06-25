@@ -30,7 +30,7 @@ twitter_username: sohaemad
 github_username:  sohaemad
 
 # Build settings
-theme: athena
+theme: jekyll-athena
 plugins:
   - jekyll-feed
 markdown: kramdown
