@@ -12,15 +12,18 @@ love object oriented but facinated by functionl programming.
 
 programming language I have delevloped with 
 
-Java , C++ , swift, 
+Java , C++ , JS , HTML , CSS 
 
 platforms 
-spring , android , IOS , NodeJS , 
+spring , android , IOS , NodeJS
 
+Skills
+
+system analysis , R&D , UML , advanced math. 
 
 in progress 
-Kotlin , 
+Kotlin , Siwft
 
 staff on my list 
 
-devOps 
+backend security , devOps , IOS , Android 
