@@ -6,6 +6,9 @@ layout: home
 ---
 ![soha Ahmed](/images/soha-pro.jpg){:height="200px" width="200px"}
 
-Junior software engineer starte as backend and research but then discovered all doable and easy to approach as long you love what you do so recently in mobile developmen. 
-
+  software engineer used to teach computer engineer love the theoretical 
+  and practical part of the advanture, always passion to learn new platfroms
+  , language and tools in software world.
+  the chalange for us with all the temptation come from the new language ,
+  tools and platforms show up in our world is to focus and evolve in one path and get into the advanced level.  
 
