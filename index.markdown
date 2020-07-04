@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![soha Ahmed](/images/soha-pro.jpg){:height="200px" width="400px"}
+![soha Ahmed](/images/soha-pro.jpg){:height="200px" width="200px"}
 
 Junior software engineer starte as backend and research but then discovered all doable and easy to approach as long you love what you do so recently in mobile developmen. 
 
