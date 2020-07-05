@@ -21,7 +21,7 @@
 title: soha Ahmed
 email: sohaemad@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Junior software engineer backend and mobile developper.
+  Junior software engineer backend and mobile developer.
   fast learner and love good books.
 baseurl: "SohaAhmed" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
